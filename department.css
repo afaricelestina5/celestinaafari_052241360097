@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.various-departments{
+    text-align: center;
+    font-size: 40px;
+}
+
+.dep img{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    margin-left: 40px;
+
+}
+
+.dep a:hover{
+    background-color: rgb(255, 82, 2);
+}
+
+
+.Compssa{
+    width: 80%;
+    background-color: rgb(194, 193, 189);
+    margin: 20px;
+    text-align: justify;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+
+.Compssa a{
+    margin-left: 90px;
+    text-decoration: none;
+}
+
+.Compssa a:hover{
+    color: yellow;
+}
+
+.Compssa h2, h3, p{
+    width: 80%;
+    margin-left: 90px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.Compssa:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.Compssa h2:hover{
+    text-transform: uppercase;
+    cursor: pointer;
+    color: yellow;
+}
+
+
